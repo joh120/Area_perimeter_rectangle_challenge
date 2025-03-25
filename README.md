@@ -1,6 +1,6 @@
 # Area_and_perimeter_rectangle_challenge
 
-Area and Perimeter of a Rectanglec
+Area and Perimeter of a Rectangle
 The program should:
 
 – Prompt the user to enter the length and width of the rectangle.
