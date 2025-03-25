@@ -1,2 +1,7 @@
-# Area_perimeter_rectangle_challenge
-This program prompts the user to enter the length and width of a rectangle. The program then uses the length and width numbers inputted by the user to calculate it's area and perimeter.
+# Area_and_perimeter_rectangle_challenge
+
+Area and Perimeter of a Rectangle
+The program should:
+
+– Prompt the user to enter the length and width of the rectangle.
+– Calculate the area and perimeter of the rectangle using the length and width entered by the user.
